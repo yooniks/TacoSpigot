@@ -15,7 +15,7 @@
     <packaging>pom</packaging>
 
     <name>TacoSpigot-Parent</name>
-    <description>Parent project for all TacoSpigot modules.</description>
+    <description>Parent project for all TacoSpigot modules..</description>
     <url>https://github.com/TacoSpigot/TacoSpigot</url>
 
     <modules>
